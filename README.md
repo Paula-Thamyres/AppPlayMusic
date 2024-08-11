@@ -17,7 +17,7 @@ O layout foi criado de forma modular, com componentes separados e unidos no Main
 
 Captura de Tela:
 
-![img01](https://github.com/Paula-Thamyres/LayoutsTipos/blob/master/img01.png)
+![img01](https://github.com/Paula-Thamyres/LinearLayout/blob/master/img01.png)
 
 
 Como Executar:
