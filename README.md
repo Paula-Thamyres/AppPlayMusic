@@ -2,6 +2,8 @@ AppPlay - Layout de Aplicativo de Música
 
 Este projeto foi desenvolvido com Android Studio em Java e faz parte do desenvolvimento do layout do AppPlay, um aplicativo fictício de reprodução de música.
 
+Primeira parte do projeto:
+
 Funcionalidades:
 
 Toolbar Personalizada: 
